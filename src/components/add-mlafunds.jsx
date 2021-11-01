@@ -49,11 +49,7 @@ export default class AddMlaFunds extends Component {
             panchayat_error = "Panchayat field is required";
         }
 
-        /*   const reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
-          if(!this.state.email || reg.test(this.state.email) === false){
-              emailError = "Email Field is Invalid ";
-          } */
-
+    
         if (!this.state.scheme_desc_error) {
             scheme_desc_error = "Scheme field is required";
         }
