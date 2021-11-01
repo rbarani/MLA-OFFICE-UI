@@ -1,0 +1,310 @@
+.outer-layer {
+    width: 50%;
+    background-color: #ffffff;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    box-shadow: inset 0 -3em 3em #fff, 0 0 0 2px #258ea6, 0.3em 0.3em 1em #258ea6;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+
+input[type='submit'] {
+    margin-top: 10px;
+}
+
+.inner-content img {
+    width: 150px;
+    height: 80px;
+    margin-left: 36%;
+    border-radius: 50%;
+    border: 5px solid #6c0404f5!important;
+    margin-top: -50px;
+}
+
+.btn-clr-default {
+    background-color: #6c0404f5!important;
+    color: #FFF;
+    font-weight: 600;
+}
+
+.btn-clr-default:hover {
+    background-color: #ffffff;
+    color: #6c0404f5!important;
+    ;
+    border: 1px solid#6c0404f5!important;
+    font-weight: 600;
+}
+
+.forget-pass:first-child a {
+    padding: 10px;
+    text-align: left !important;
+}
+
+.forget-pass:last-child a {
+    text-align: right;
+    padding: 10px;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100%;
+    background-color: #6c0404f5!important;
+    ;
+}
+
+.petitions-lists {
+    min-height: 220px;
+    padding: 5px;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: #6c0404f5!important;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.petitions-lists a {
+    color: #fff!important;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mla-funds {
+    min-height: 100px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    background-color: #6c0404f5!important;
+    margin: 3px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.fund-details {
+    margin-bottom: 10px;
+}
+
+.funds h2 {
+    margin-bottom: 10px;
+}
+
+.funds span {
+    margin-bottom: 10px;
+}
+
+.mla-funds a {
+    color: #fff!important;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main {
+    background-color: #ffffff!important;
+    height: 650px;
+    padding: 20px;
+    overflow-y: scroll;
+}
+
+.text-secondary {
+    color: #ffffff !important;
+}
+
+.sidebar-offcanvas a {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.breadcrumb {
+    background-color: #6c0404f5!important;
+    color: #ffffff !important;
+}
+
+.breadcrumb a {
+    background-color: #6c0404f5!important;
+    color: #ffffff !important;
+}
+
+.navbar a {
+    color: #ffffff !important;
+}
+
+#sidebar {
+    height: 650px;
+}
+
+.bg-dark {
+    background-color: #6c0404f5!important;
+}
+
+.card-design-dash h5 {
+    color: #fff;
+    font-size: 24px;
+}
+
+.card-design-dash p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.rotate-icon {
+    color: #ccc;
+    font-size: 24px;
+    float: left;
+    padding: 5px;
+    width: 41px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+.icon-dash {
+    padding: 3px;
+    margin: 1px 4px 2px 0px;
+}
+
+.content-dash {
+    margin-left: 3px;
+    display: inline-block;
+}
+
+.solved {
+    margin-left: 3px;
+}
+
+.card-body {
+    padding: 10px !important;
+}
+
+.left {
+    display: inline-block;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.complaints {
+    clear: both;
+    padding: 10px;
+    margin: 10px;
+    width: 700px;
+}
+
+.complaints h6 {
+    height: 65px;
+    overflow: hidden;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.float-left {
+    float: left;
+}
+
+.petions {
+    display: inline-block;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.petions h6 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+
+.petions h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+
+.petions h6 {
+    margin-bottom: 5px;
+}
+
+.petions h4 {
+    margin-bottom: 10px;
+}
+
+.avatar {
+    float: left;
+    padding: 5px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.mla-funds a p {
+    line-height: 20px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.left h6 {
+    margin-bottom: 10px;
+}
+
+.petions h6 {
+    width: 200px;
+}
+
+.svg-inline--fa {
+    color: #fff!important;
+}
+
+.mla-funds a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span {
+    font-weight: 600px;
+    padding: 0;
+    margin: 0;
+}
+
+.panchayat-details {
+    background-color: #6c0404f5!important;
+    color: #ffffff !important;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.panchayat-lists {
+    padding: 10px;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: #6c0404f5!important;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.panchayat-lists h4,
+h5 {
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.panchayat-name {
+    color: #fff!important;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
